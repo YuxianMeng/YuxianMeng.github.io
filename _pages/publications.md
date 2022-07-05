@@ -1,8 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: publications by categories in reversed chronological order. More publications can be found in my <a href="https://scholar.google.com/citations?user=SCHOLAR_ID&user=Sw5Se_IAAAAJ">Google Scholar</a> page.
+title: Publications
+description: A full list of my papers can be also found in <a href="https://scholar.google.com/citations?user=SCHOLAR_ID&user=Sw5Se_IAAAAJ">[Google Scholar]</a>.
+
+[//]: # (can be found in my <a href="https://scholar.google.com/citations?user=SCHOLAR_ID&user=Sw5Se_IAAAAJ">Google Scholar</a> page.)
 years: [2022,2021,2020,2019]
 nav: true
 nav_order: 1
