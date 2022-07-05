@@ -53,7 +53,7 @@
             {%- else -%}
               {%- unless forloop.last -%}
                 {% if author_is_self %}
-                  <em>{{author.first}} {{author.last}}</em>,
+                  <em>{{author.first}} {{author.last}}</em>,&nbsp;
                 {%- else -%}
                   {% if coauthor_url -%}
                     <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
