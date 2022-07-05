@@ -7,6 +7,8 @@
       value: 11th April 1996
     - name: Languages
       value: Chinese, English
+    - name: Contact
+      value: mengyuxian@pku.edu.cn
 
 - title: Education
   type: time_table
