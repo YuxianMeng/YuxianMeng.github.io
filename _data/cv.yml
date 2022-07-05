@@ -81,7 +81,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Natural Language Processing(NLP)
+    - title: Natural Language Processing (NLP)
       items:
         - Named Entity Recognition
         - Neural Machine Translation
