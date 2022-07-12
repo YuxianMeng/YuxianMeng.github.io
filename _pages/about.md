@@ -22,12 +22,12 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Hi! Thanks for stopping by. I'm a Deep Learning Researcher at [JQ Investments](http://www.jqinvestments.com/home). 
+Hi! Thanks for stopping by. I'm a Deep Learning researcher at [JQ Investments](http://www.jqinvestments.com/home). 
 I obtained my B.S. from the School of Mathematical Sciences at Peking University.
-In JQ Investments, I make full use of powerful computing resources to mine massive multivariate data, 
-and apply Deep Learning in different quantitative scenarios such as feature extraction, price prediction and combinatorial optimization.
-Before joining JQ Investments, I was a research scientist at [Shannon.AI](http://www.shannonai.com/), where I built Deep Learning systems for real-world
-NLP applications, and I was fortunate to work with [Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/).
+In JQ Investments, I exploit powerful computing resources to mine massive multivariate data, 
+and apply Deep Learning algorithms in different quantitative scenarios such as feature extraction, price prediction and combinatorial optimization.
+Previously, I was a research scientist at [Shannon.AI](http://www.shannonai.com/), where I built Deep Learning systems for real-world
+NLP applications, and I was very fortunate to work with [Jiwei Li](https://nlp.stanford.edu/~bdlijiwei/).
 
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)

@@ -33,25 +33,11 @@
       description:
         - Develop NLP analysis toolbox(e.g. NER, sentiment analysis, news summarization) for financial companies.
         - Lead NLP group for <a href="https://mypitaya.com/en">Pitaya</a>, an AI-powered writing tool that is able to do translation, grammar error correction, polish and content generation.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-
-#    - title: Deep Learning Researcher
-#      institution: TBD
-#      year: 2022 - now
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-#    - title: Director
-#      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#      year: 1917-1933
+    - title: Deep Learning Researcher
+      institution: JQ Investments
+      year: 2022 - Present
+      description:
+        - Apply Deep Learning in different quantitative scenarios such as feature extraction, price prediction and combinatorial optimization.
 #
 #    - title: Professor of Theoretical Physics
 #      institution: Karl-Ferdinand University, Prague, Czechoslovakia
@@ -90,10 +76,16 @@
         - Language Modeling
         - Dependency Parsing
         - Pretrained Language Models
-#    - title: Quantitative Finance
+    - title: Quantitative Finance
 #      itmes:
 #        - secret
+#
 #- title: Other Interests
-#  type: list
+#  type: nested_list
 #  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#    - title: Honor of Kings (Mobile MOBA Game)
+#      items:
+#        - I was No.1 player of 东皇太一 in Beijing.
+#    - title: Red Alert (RTS Game)
+##  contents:
+##    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
